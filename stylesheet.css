@@ -38,29 +38,14 @@
 .gamesList ul {
     padding-top: 10px;
 }
-.centerContent {
-    position: relative;
-    height: 863px;
-    width: 1024px;
-    background: url("board.jpg") no-repeat;
-    clear: both;
-    margin: auto;
-}
+
 #messageArea{
     position: absolute;
     top: 0px;
     left: 0px;
     color: rgb(83, 175, 19);
 }
-#battleshipTable {
-    position: relative;
-    left: 172px;
-    top: 98px;
-}
-#battleshipTable td {
-    width: 92px;
-    height: 92px;
-}
+
 #backgammonTableOne {
     position: absolute;
     left: 390px;

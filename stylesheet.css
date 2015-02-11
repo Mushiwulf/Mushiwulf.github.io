@@ -196,3 +196,6 @@ button {
     clear: both;
     margin: auto;
 }
+.backgammonControls {
+    text-align: center;
+}

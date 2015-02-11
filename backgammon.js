@@ -309,10 +309,10 @@ function backgammonGame () {
     function init() {
         model.setupBoard();
         controller.rollDice(1);
-        var fireButton = document.getElementById("bgFireButton");
-        fireButton.onclick = handleFireButton;
-        var guessInput = document.getElementById("guessInput");
-        guessInput.onkeypress = handleKeyPress;      
+        // var fireButton = document.getElementById("bgFireButton");
+        // fireButton.onclick = handleFireButton;
+        // var guessInput = document.getElementById("guessInput");
+        // guessInput.onkeypress = handleKeyPress;      
         var clearButton = document.getElementById("clearButton");
         clearButton.onclick = handleClearButton;
       // These need some serious work still
